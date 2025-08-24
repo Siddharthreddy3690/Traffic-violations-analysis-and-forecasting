@@ -1,4 +1,4 @@
-🚦 Traffic Violations Analysis and forecasting
+🚦 Traffic Violations Analytics Dashboard
 
 An interactive dashboard built with Dash, Plotly, and Prophet to analyze and forecast traffic violations across Indian cities.
 
@@ -85,7 +85,7 @@ traffic-voilation-analysis/
 ⚙️ Installation & Setup
 
 1️⃣ Clone the repository
-git clone https://github.com/siddharthreddy3690/traffic-violations-analysis-and-forecasting.git
+git clone https://github.com/yourusername/traffic-violations-dashboard.git
 cd traffic-violations-dashboard
 
 2️⃣ Create a virtual environment (recommended)
