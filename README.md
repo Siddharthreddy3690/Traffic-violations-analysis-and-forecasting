@@ -85,7 +85,7 @@ traffic-voilation-analysis/
 ⚙️ Installation & Setup
 
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/traffic-violations-dashboard.git
+git clone https://github.com/siddharthreddy3690/traffic-violations-analysis-and-forecasting.git
 cd traffic-violations-dashboard
 
 2️⃣ Create a virtual environment (recommended)
